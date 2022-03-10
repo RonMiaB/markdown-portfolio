@@ -1,1 +1,2 @@
-[GitHub Profile](https://github.com/RonMiaB)
+[GitHub](http://github.com)
+
