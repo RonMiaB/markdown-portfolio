@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Hummingbird.](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/hummingbird-enchantment-abstract-angel-artist-stephen-k.jpg)
